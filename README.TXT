@@ -7,6 +7,6 @@ all he/she needs to know. The comments should usually include at least:
 PROJECT TITLE: Slugging Percentage
 PURPOSE OF PROJECT: Compute the slugging percentage of a baseball player. 
 VERSION or DATE: 6/12/2019
-HOW TO START THIS PROJECT: Copy the Java file into your Java project or 
-AUTHORS:
-USER INSTRUCTIONS:
+HOW TO START THIS PROJECT: Copy the Java file into your Java project or use the package.bluej
+AUTHORS: Nick Rentschler
+USER INSTRUCTIONS: Run the Main method and enter values for the fields and push compute! To clear values, push clear. 
