@@ -41,11 +41,11 @@ class Baseball extends JFrame implements ActionListener {
         add(top, BorderLayout.NORTH);
         
         playerName = new JLabel("Enter name of player:        ");
-        singles = new JLabel("Number of singles:        ");
-        doubles = new JLabel("Number of doubles:       ");
-        triples = new JLabel("Number of triples:        ");
-        homeRuns = new JLabel("Number of home runs:     ");
-        timesAtBat = new JLabel("Number of times at bat:     ");
+        singles = new JLabel("Number of singles:                ");
+        doubles = new JLabel("Number of doubles:                ");
+        triples = new JLabel("Number of triples:                   ");
+        homeRuns = new JLabel("Number of home runs:           ");
+        timesAtBat = new JLabel("Number of times at bat:          ");
         slug = new JLabel("The slugging percentage is:");
         
        
