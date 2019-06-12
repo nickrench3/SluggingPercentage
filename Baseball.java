@@ -12,7 +12,7 @@ class Baseball extends JFrame implements ActionListener {
     private static final int FRAME_X_ORIGIN = 150;
     private static final int FRAME_Y_ORIGIN = 250;
     private static final int BUTTON_WIDTH   = 100;
-    private static final int BUTTON_HEIGHT  = 30;
+    private static final int BUTTON_HEIGHT  = 20;
     private JButton clearButton, computeButton;
     private JLabel singles, doubles, triples, homeRuns, timesAtBat,  slug, playerName;
     private JTextField firstInput, secondInput, thirdInput, fourthInput, fifthInput, slugPer, playerInput;
